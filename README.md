@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! I'm Leandro Pitta, a Website Developer. Welcome to my GitHub!.</h2>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! I'm Leandro Pitta, a Website Developer. Welcome to my GitHub!.</h2>
 
 <table align="center" border="0">
   <tr border="0">
