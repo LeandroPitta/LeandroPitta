@@ -1,9 +1,8 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! I'm Leandro Pitta, a Website Developer. Welcome to my GitHub!.</h2>
+<h2>
+  <p>Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p>
+  I'm Leandro Pitta, a Website Developer.
+</h2>
 
-<table align="center" border="0">
-  <tr border="0">
-    <td width="50%" valign="top" border="0">
-      
 ### Main skills:
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
@@ -30,14 +29,7 @@
 ![JBoss](https://img.shields.io/badge/-JBoss-E21E26?style=for-the-badge&logo=red-hat&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
-    </td>    
-    <td width="50%" valign="top" border="0">
-      <img 
-        width="100%" 
-        height="195px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPitta&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
-      />
-    </td>
-  </tr>
-</table>
 
+<div align="right">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPitta&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+</div>
