@@ -1,6 +1,6 @@
 <h2>
   <p>Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p>
-  I'm Leandro Pitta, a Website Developer.
+  I'm Leandro Pitta, a Fullstack Developer.
 </h2>
 
 ### Main skills:
